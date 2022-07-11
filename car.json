@@ -1,0 +1,24 @@
+[{
+  "brand": "Mercedes",
+  "yearOfPublished": "2018",
+  "race": 2000,
+  "condition": "good"
+},
+{
+  "brand": "BMW",
+  "yearOfPublished": "2020",
+  "race": 398,
+  "condition": "very good"
+},
+{
+  "brand": "Lamborgini",
+  "yearOfPublished": "2010",
+  "race": 5300,
+  "condition": "bad"
+},
+{
+  "brand": "Lexus",
+  "yearOfPublished": "2022",
+  "race": 945,
+  "condition": "the best"
+}]
